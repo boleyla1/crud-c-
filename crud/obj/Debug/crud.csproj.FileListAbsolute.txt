@@ -1,0 +1,15 @@
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\crud.exe.config
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\crud.exe
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\crud.pdb
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\EntityFramework.dll
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\EntityFramework.xml
+C:\Users\Mehrshad\source\repos\crud\crud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.csproj.Up2Date
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.exe
+C:\Users\Mehrshad\source\repos\crud\crud\obj\Debug\crud.pdb
